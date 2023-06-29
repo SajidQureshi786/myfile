@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaacu66rknm672433tojptsf52yrvzwrjao3admzizaay7zhsyt37hq
+fingerprint=5d:9c:c2:32:67:c8:8c:3f:d6:3d:e5:ae:43:55:99:35
+tenancy=ocid1.tenancy.oc1..aaaaaaaaudfniaivcwyu5pgqiv4sddompihabel2qcoyre3usp3yypdfghga
+region=ap-mumbai-1
+key_file=APIKEY.pem
